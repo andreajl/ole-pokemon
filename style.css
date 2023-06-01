@@ -1,0 +1,72 @@
+.center-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 100px;
+  color: yellow;
+  margin: 0;
+}
+
+a {
+  color: black;
+  font-size: 70px;
+}
+
+body {
+  background-color: blue;
+}
+
+.center-div-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.pad {
+  padding: 40px;
+  margin: 8px;
+}
+
+.border {
+  border-right: solid;
+  border-left: solid;
+
+}
+
+p {
+  color: black;
+  font-size: 30px;
+  width: 450px;
+}
+
+b {
+  color: black;
+  font-size: 50px;
+  padding: 8px;
+
+}
+
+.searchforpokemon {
+  color: rgb(246, 16, 16);
+  font-size: 30px;
+}
+
+li {
+  color: black;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none
+}
+
+.typesbilde {
+  width: 60px;
+  height: 60px;
+}
